@@ -1,0 +1,19 @@
+{
+    "packages": [
+        {
+            "name": "minininc/beautyalist-sdk-openid",
+            "version": "1.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/minininc/BeautyAList-SDK-OpenID.git",
+                "reference": "main"
+            },
+            "type": "library",
+            "installation-source": "source",
+            "install-path": "../minininc/beautyalist-sdk-openid"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

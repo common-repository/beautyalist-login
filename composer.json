@@ -1,0 +1,24 @@
+{
+    "autoload": {
+        "psr-4": {
+            "BeautyAListLogin\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type":"package",
+            "package": {
+                "name": "minininc/beautyalist-sdk-openid",
+                "version": "1.0",
+                "source": {
+                    "url": "https://github.com/minininc/BeautyAList-SDK-OpenID.git",
+                    "type": "git",
+                    "reference":"main"
+                }
+            }
+        }
+    ],
+    "require": {
+        "minininc/beautyalist-sdk-openid": "1.0"
+    }
+}

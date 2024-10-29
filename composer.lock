@@ -1,0 +1,29 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "21c86710a2aa590fad3591cfd88ec2d1",
+    "packages": [
+        {
+            "name": "minininc/beautyalist-sdk-openid",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/minininc/BeautyAList-SDK-OpenID.git",
+                "reference": "main"
+            },
+            "type": "library"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
